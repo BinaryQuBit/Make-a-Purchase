@@ -1,0 +1,14 @@
+wp-config.php
+wp-config-docker.php
+wp-config-sample.php
+
+*.log
+*.sql
+*.sqlite
+*.db
+
+upgrade/
+cache/
+backup-*
+
+/database/
