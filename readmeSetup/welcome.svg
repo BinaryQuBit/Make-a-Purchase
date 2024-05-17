@@ -79,15 +79,12 @@
           flex-direction: column;
         }
 
-        ul {
+        .items p {
           font-size: 14px;
           line-height: 26px;
           color: #9e3ffd;
           font-weight: 700;
           font-family: "Open Sans", sans-serif;
-        }
-
-        ul li {
           display: flex;
           letter-spacing: 0.125vw;
         }
@@ -98,9 +95,7 @@
         <span><em>Purchase Mania</em></span>
       </h1>
       <section class='items'>
-        <ul>
-          <li>A mock up website for a local car dealer</li>
-        </ul>
+        <p>A mock up website for a local car dealer</p>
       </section>
     </div>
   </foreignObject>
