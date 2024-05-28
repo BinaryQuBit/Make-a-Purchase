@@ -3,7 +3,7 @@
 </div> 
 
 <br>
-<br> 
+<br>  
 
 <div style="width: 100%;">
     <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/d7f1f1d16c607a9124692b001b07b9f185f41cbf/headers/demo.svg" style="width: 100%"></a>
@@ -12,7 +12,7 @@
 <br>
 
 <div align="center" style="width: 100%;">
-    <a href="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/purchaseMania.gif?raw=true" style="width: 100%">Final Product</a>
+    <a href="https://purchasemania.csproject.org"><img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/purchaseMania.gif?raw=true" style="width: 100%">Final Product</a>
 </div>
 
 <br>
